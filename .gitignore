@@ -12,6 +12,8 @@
 
 *.png
 
+*.ftr
+
 __pycache__
 
 .ipynb_checkpoints
